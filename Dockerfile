@@ -14,7 +14,7 @@ RUN pip install --no-cache-dir spacy pandas google-cloud-storage scikit-learn
 RUN python -m spacy download es_core_news_sm
 
 # Expone el puerto si es necesario
-# EXPOSE 8080
+EXPOSE 8080
 
 # Ejecuta el script de Python
 CMD ["python", "start_ml.py"]
