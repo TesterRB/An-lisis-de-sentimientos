@@ -1,0 +1,19 @@
+FROM python:3.8-slim
+
+# Establece el directorio de trabajo dentro del contenedor
+WORKDIR /app
+
+# Copia los archivos del proyecto al contenedor
+COPY . .
+
+# Instala las dependencias de Python
+RUN pip install --no-cache-dir spacy pandas scikit-learn flask google-cloud-storage
+
+# Descarga el modelo de Spacy en español
+RUN python -m spacy download es_core_news_sm
+
+#Exponer el puerto
+EXPOSE 8080
+
+# Ejecuta la aplicación Flask
+CMD ["python", "start_ml.py"]
