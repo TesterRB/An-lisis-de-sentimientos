@@ -1,4 +1,6 @@
-![header](https://github.com/TesterRB/Analisis-de-sentimientos/blob/main/src/banner.png)
+<p align="center">
+  <img src="https://github.com/TesterRB/Analisis-de-sentimientos/blob/main/src/banner.png" alt="header">
+</p>
 
 ## Índice
 
