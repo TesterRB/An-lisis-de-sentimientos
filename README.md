@@ -37,7 +37,9 @@ En cuanto al alcance del proyecto, conscientes de la gran variedad de productos 
 
 ## Pipeline
 
-![Pipeline]()
+<p align="center">
+  <img src="https://github.com/TesterRB/Analisis-de-sentimientos/blob/main/src/pipeline.png" alt="header">
+</p>
 
 - Analisis de datos (EDA) preliminar de las respuestas del formulario: [Link diccionario](https://docs.google.com/spreadsheets/d/1E0B0LYUlOoxMaXuXUV6i2kzVYoTtiZaH/edit?usp=sharing&ouid=110626938180094444619&rtpof=true&sd=true)
 - Limpieza de los datos utilizados para entrenar el modelo de machine learning - [Link Preprocesamiento](https://github.com/ksfajardo/PG-YELP-GMAPS/blob/main/ConversionArchivosParquet.ipynb)
