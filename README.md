@@ -54,4 +54,4 @@ Esta es la lista de desarrolladores acompañados de los links a sus perfiles de 
 - Juan David Reyes - [Linkedin](https://www.linkedin.com/in/juan-david-reyes-burbano/) - [Github](https://github.com/TesterRB)
 - Marco Antonio Aragon - [Linkedin](https://www.linkedin.com/in/marco-antonio-aragon-vivas-572183289/) - [Github](https://github.com/MarcAragon)
 - Daniela Marin Villacorte - [Linkedin](https://www.linkedin.com/in/daniela-mar%C3%ADn-villacorte-ab6558267/) - [Github](https://github.com/TesterRB)
-- Dana Isabela Cataño - [Linkedin](https://www.linkedin.com/in/juan-david-reyes-burbano/) - [Github](https://github.com/TesterRB)
+- Dana Isabela Cataño - [Linkedin](http://www.linkedin.com/in/dana-isabella-cata%C3%B1o-echeverr%C3%ADa-2ab42b30b) - [Github](https://github.com/TesterRB)
